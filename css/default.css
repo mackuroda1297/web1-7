@@ -14,10 +14,12 @@ header{
 #main1{
   background-color: green;
   width: 500px;
+  float: left;
 }
 #main2{
   background-color: yellow;
   width: 500px;
+  float: right;
 }
 aside{
   background-color: blue;
@@ -25,5 +27,6 @@ aside{
 }
 footer{
   background-color: purple;
+  clear: both;
 }
 
